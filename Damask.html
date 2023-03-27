@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <title>My Cool Website</title>
+    <style>
+      body {
+        background-color: #f1f1f1;
+        font-family: Arial, sans-serif;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      #input-box {
+        display: block;
+        margin: 0 auto;
+        width: 60%;
+        height: 250px;
+        border: 2px solid #ccc;
+        border-radius: 5px;
+        font-size: 1.2em;
+        padding: 10px;
+      }
+      #submit-btn {
+        display: block;
+        margin: 20px auto;
+        width: 30%;
+        height: 40px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 1.2em;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to My Cool Website</h1>
+    <form onsubmit="submitForm(event)">
+        <input type="text" id="input-box" placeholder="Enter your text here">
+        <input type="submit" id="submit-btn" value="Submit">
+      </form>
+      
+      <script>
+        inputValue = ''
+
+        function submitForm(event) {
+          event.preventDefault(); // prevent the form from submitting and refreshing the page
+          
+          const inputBox = document.getElementById('input-box');
+          inputValue = inputBox.value;
+          
+          js_fun = pyscript.interpreter.globals.get('dooo')
+          js_fun(inputValue)
+        }
+      </script>
+    <py-config>
+        packages = ["requests", "pyodide-http"]
+      </py-config>
+    <py-script>
+        from js import inputValue
+
+        def dooo(inpp):
+            print(str(inpp))
+    </py-script>
+  </body>
+</html>
