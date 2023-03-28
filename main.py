@@ -119,7 +119,7 @@ while True:
     print(DataCreateOrder)
 
     while True:
-        inp2 = input('\nEnter Data: ')
+        inp2 = input('\nSearch zone: ')
 
         if inp2.isdigit():
             for i in cityZones:
