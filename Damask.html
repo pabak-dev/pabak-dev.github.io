@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
     <script defer src="https://pyscript.net/latest/pyscript.js"></script>
     <title>Damask</title>
@@ -58,14 +60,14 @@
         }
       </script>
     <py-config>
-        packages = ["requests", "pyodide_http"]
+        packages = ["requests", "pyodide-http"]
     </py-config>
     <py-script>
     from js import inputValue
     import requests
     import json
-    import pyodide_http
 
+    import pyodide_http
     pyodide_http.patch()
 
     base_url = 'https://api-hermes.pathao.com'

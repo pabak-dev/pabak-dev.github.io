@@ -1,0 +1,778 @@
+
+bagerhat>bagerhat sadar>52>156>
+bagerhat>chitalmari>52>594>
+bagerhat>fakirhat>52>595>
+bagerhat>kachua >52>596>
+bagerhat>mollahat >52>593>
+bagerhat>mongla>52>868>
+bagerhat>morelganj>52>597>
+bagerhat>rampal>52>598>
+bagerhat>rayenda>52>599>
+bagerhat>sarankhola>52>984>
+bandarban >alikadam>62>714>
+bandarban >bandarban sadar>62>166>
+bandarban >kalaghata>62>692>
+bandarban >lama>62>696>
+bandarban >naikhong>62>1008>
+bandarban >roanchhari >62>693>
+bandarban >ruma>62>694>
+bandarban >thanchi>62>695>
+barguna >amtoly>34>931>
+barguna >bamna>34>933>
+barguna >barguna sadar>34>135>
+barguna >betage>34>932>
+barguna >pathor ghata>34>934>
+barguna >taltoly>34>930>
+barisal>agailzhara>17>911>
+barisal>babuganj>17>916>
+barisal>bakergonj>17>915>
+barisal>banaripara>17>914>
+barisal>barisal bandor thana>17>1014>
+barisal>barisal sadar>17>113>
+barisal>gauronodi>17>910>
+barisal>hizla >17>912>
+barisal>kotowali>17>909>
+barisal>mahendiganj>17>607>
+barisal>muladi>17>913>
+barisal>wazirpur powrosova>17>917>
+b. baria>akhaura>32>546>
+b. baria>asugonj>32>728>
+b. baria>banchharampur >32>133>
+b. baria>bijoynagar>32>748>
+b. baria>brahamanbaria sadar>32>547>
+b. baria>kasba>32>548>
+b. baria>nabinagar>32>549>
+b. baria>nasirnagar>32>551>
+b. baria>sarail>32>550>
+bhola>bhola sadar>53>157>
+bhola>burhanuddin >53>900>
+bhola>char fashion >53>903>
+bhola>dokkhin aicha>53>904>
+bhola>doulatkhan>53>899>
+bhola>lalmohon>53>901>
+bhola>tazumuddin >53>902>
+bogra>adamdighi>9>753>
+bogra>bogra - gabtoli>9>480>
+bogra>bogra sadar>9>104>
+bogra>dhunat>9>756>
+bogra>dupchachia>9>719>
+bogra>kahalu>9>479>
+bogra>nandigram>9>754>
+bogra>sariakandi>9>752>
+bogra>shajahanpur >9>751>
+bogra>shantaher>9>757>
+bogra>sherpur>9>478>
+bogra>shibganj>9>481>
+bogra>sonatola>9>755>
+chandpur>chandpur sadar>8>102>
+chandpur>faridganj>8>563>
+chandpur>hayemchar>8>565>
+chandpur>haziganj>8>564>
+chandpur>kachua>8>566>
+chandpur>matlab>8>667>
+chandpur>matlab-uttar>8>749>
+chandpur>shahrasti>8>567>
+chapainawabganj>bholahat>15>558>
+chapainawabganj>chapainawabganj sadar>15>111>
+chapainawabganj>gomastapur>15>508>
+chapainawabganj>nachole>15>559>
+chapainawabganj>shibganj >15>509>
+chittagong>akbarsha>2>78>
+chittagong>anawara>2>434>
+chittagong>andarkilla>2>69>
+chittagong>anowara>2>453>
+chittagong>bakoliya thana>2>83>
+chittagong>bashkhali >2>459>
+chittagong>bayazid>2>80>
+chittagong>boalkhali>2>681>
+chittagong>bondor>2>1027>
+chittagong>chandanaish >2>1015>
+chittagong>chandgaon>2>375>
+chittagong>chawkbazar>2>79>
+chittagong>chittagong-sadar ghat>2>365>
+chittagong>ctg - lohagara >2>460>
+chittagong>dohajari>2>1032>
+chittagong>double mooring>2>86>
+chittagong>east joara>2>400>
+chittagong>enayet bazar>2>405>
+chittagong>epz>2>73>
+chittagong>fatikchhari>2>417>
+chittagong>halishahar>2>75>
+chittagong>hathazari >2>81>
+chittagong>karnophuli>2>993>
+chittagong>keranihat>2>716>
+chittagong> khulshi >2>84>
+chittagong>kotowali chittagong>2>364>
+chittagong>mirsharai>2>87>
+chittagong>nasirabad>2>685>
+chittagong>nazirhat>2>703>
+chittagong>new market ctg>2>72>
+chittagong>pahartali>2>986>
+chittagong>panchlaish ctg>2>333>
+chittagong>patia>2>457>
+chittagong>rangunia>2>378>
+chittagong>raozan>2>68>
+chittagong>sandwip>2>705>
+chittagong>satkaniya>2>371>
+chittagong>sitakunda>2>420>
+chittagong>vatiary>2>1026>
+chittagong>zorarganj>2>730>
+chuadanga>alamdanga>61>647>
+chuadanga>chuadanga sadar>61>165>
+chuadanga>damurhuda>61>591>
+chuadanga>darshana>61>968>
+chuadanga>doulatganj>61>592>
+chuadanga>jiban nagar>61>646>
+cox's bazar>chakaria>11>107>
+cox's bazar>cox's bazar sadar>11>106>
+cox's bazar>eidgah>11>898>
+cox's bazar>kutubdia>11>638>
+cox's bazar>moheshkhali>11>896>
+cox's bazar>pakua>11>560>
+cox's bazar>ramu>11>561>
+cox's bazar>teknaf>11>897>
+cox's bazar>ukhia>11>562>
+cumilla>barura>5>534>
+cumilla>b.para>5>91>
+cumilla>burichang>5>92>
+cumilla>cantonment>5>741>
+cumilla>chandina>5>98>
+cumilla>chauddagram>5>97>
+cumilla>comilla companigonj>5>732>
+cumilla>cumilla sadar>5>93>
+cumilla>daudkandi>5>545>
+cumilla>devidwar>5>99>
+cumilla>eliotgonj>5>736>
+cumilla>gazipur thana>5>738>
+cumilla>gouripur>5>737>
+cumilla>homna>5>96>
+cumilla>kotbari>5>731>
+cumilla>laksam>5>94>
+cumilla>lalmai>5>735>
+cumilla>megna>5>740>
+cumilla>mia-bazar>5>552>
+cumilla>monohorgonj>5>733>
+cumilla>muddafarganj>5>103>
+cumilla>muradnagar>5>553>
+cumilla>nangolkot>5>95>
+cumilla>sadar dakkhin>5>734>
+cumilla>titash>5>739>
+dhaka>60 feet>1>298>
+dhaka>abdullahpur uttara>1>1070>
+dhaka>abul hotel >1>1066>
+dhaka>adabor>1>52>
+dhaka>aftab nagar>1>300>
+dhaka>agargaon>1>17>
+dhaka>arambag>1>317>
+dhaka>ashkona>1>965>
+dhaka>azampur>1>1041>
+dhaka>azimpur>1>55>
+dhaka>badda>1>30>
+dhaka>baily road>1>312>
+dhaka>bakshi bazar>1>274>
+dhaka>balughat>1>292>
+dhaka>banani>1>1>
+dhaka>banani dohs>1>181>
+dhaka>banasree (road a-g)>1>24>
+dhaka>banasree (road h-j)>1>1058>
+dhaka>bangshal>1>250>
+dhaka>baridhara diplomatic zone>1>958>
+dhaka>baridhara dohs>1>959>
+dhaka>baridhara j block>1>960>
+dhaka>bashabo >1>303>
+dhaka>bashundhara >1>6>
+dhaka>bawnia>1>176>
+dhaka>beraid>1>981>
+dhaka>boro moghbazar>1>964>
+dhaka>central road>1>972>
+dhaka>chawkbazar>1>630>
+dhaka>dakshinkhan>1>15>
+dhaka>darussalam>1>287>
+dhaka>demra>1>245>
+dhaka>dhaka cantonment>1>342>
+dhaka>dhaka medical>1>1056>
+dhaka>dhaka university>1>200>
+dhaka> dhamrai , savar>1>1016>
+dhaka>dhanmondi>1>62>
+dhaka>dholpur>1>979>
+dhaka>diabari>1>1045>
+dhaka>dit road>1>966>
+dhaka>ecb>1>23>
+dhaka>elephant road>1>967>
+dhaka>eskaton>1>311>
+dhaka>faidabad>1>13>
+dhaka>faridabad>1>978>
+dhaka>farmgate>1>46>
+dhaka>gandaria>1>42>
+dhaka>gopibagh>1>254>
+dhaka>goran>1>308>
+dhaka>green road>1>338>
+dhaka>gulbagh>1>1062>
+dhaka>gulisthan>1>35>
+dhaka>gulshan 1>1>4>
+dhaka>gulshan-2 >1>5>
+dhaka>hatirpool>1>213>
+dhaka>hazaribagh>1>56>
+dhaka> house building>1>1043>
+dhaka>ibrahimpur>1>1035>
+dhaka>islampur>1>257>
+dhaka>jatrabari>1>248>
+dhaka>jhauchor>1>1054>
+dhaka>jigatola>1>61>
+dhaka>joardar lane>1>1063>
+dhaka>jurain>1>977>
+dhaka>kadamtoli >1>980>
+dhaka>kafrul>1>352>
+dhaka>kalabagan>1>63>
+dhaka>kallyanpur>1>64>
+dhaka>kamalapur>1>252>
+dhaka>kamranggirchar>1>655>
+dhaka>kathalbagan>1>59>
+dhaka>kawla>1>16>
+dhaka>kawran bazar>1>58>
+dhaka>keraniganj>1>66>
+dhaka>khilgaon>1>29>
+dhaka>khilkhet>1>178>
+dhaka>kuril>1>177>
+dhaka>lakshmibazar>1>260>
+dhaka>lalbag>1>57>
+dhaka>lalkuthi>1>1036>
+dhaka>malibagh  baganbari>1>1065>
+dhaka>malibagh college road >1>1060>
+dhaka>malibagh  lane >1>1061>
+dhaka>malibagh pabna colony >1>1064>
+dhaka>manda >1>971>
+dhaka>manikdi>1>337>
+dhaka>manik nagar>1>251>
+dhaka>matikata>1>291>
+dhaka>matuail>1>255>
+dhaka>mirpur 1>1>171>
+dhaka>mirpur 10>1>19>
+dhaka>mirpur 11 >1>20>
+dhaka>mirpur 12>1>280>
+dhaka>mirpur 13>1>717>
+dhaka>mirpur 14>1>21>
+dhaka>mirpur 2>1>22>
+dhaka>mirpur 6>1>283>
+dhaka>mirpur 7>1>475>
+dhaka>mirpur dohs>1>281>
+dhaka>modhubag>1>315>
+dhaka>mogbazar>1>32>
+dhaka>mohakhali>1>2>
+dhaka>mohakhali dohs>1>11>
+dhaka>mohammadpur>1>50>
+dhaka>monipur>1>233>
+dhaka>motijheel>1>34>
+dhaka>moulavi bazar (old dhaka)>1>1057>
+dhaka>mugda>1>307>
+dhaka>nadda>1>182>
+dhaka>nakhalpara >1>10>
+dhaka>narinda>1>266>
+dhaka>nawabpur>1>259>
+dhaka>naya bazar>1>41>
+dhaka>nazim uddin road>1>205>
+dhaka>nazira bazar>1>36>
+dhaka>new elephant road>1>60>
+dhaka>new market>1>201>
+dhaka>new paltan (azimpur) >1>1055>
+dhaka>niketan>1>9>
+dhaka>nikunja>1>8>
+dhaka>nikunja 2>1>961>
+dhaka>nilkhet>1>210>
+dhaka>noyatola road >1>1067>
+dhaka>on-demand  transfer>1>1009>
+dhaka>paikpara>1>18>
+dhaka>pallabi>1>975>
+dhaka>paltan>1>33>
+dhaka>panthapath>1>750>
+dhaka>pirerbagh>1>973>
+dhaka>rajlakkhi market >1>1042>
+dhaka>rampura>1>28>
+dhaka>rayerbag>1>244>
+dhaka>rayer bazar>1>1071>
+dhaka>rupnagar>1>974>
+dhaka>sadarghat>1>258>
+dhaka>savar>1>65>
+dhaka> savar-nabinagar>1>1046>
+dhaka>senpara>1>173>
+dhaka>shahbag>1>199>
+dhaka>shahid nagar>1>957>
+dhaka>shahjadpur>1>180>
+dhaka>shajahanpur>1>318>
+dhaka>shampur>1>976>
+dhaka>shanir akhra>1>38>
+dhaka>shankar>1>1072>
+dhaka>shantinagar>1>26>
+dhaka>shegunbagicha>1>302>
+dhaka>sher-e bangla nagar>1>1037>
+dhaka>shewrapara>1>174>
+dhaka>shiddeshwari>1>306>
+dhaka>shonalibagh>1>31>
+dhaka>shonir akhra>1>1069>
+dhaka>shyamoli>1>198>
+dhaka>south banasree>1>963>
+dhaka>sutrapur >1>661>
+dhaka>tejgaon>1>3>
+dhaka>tejgaon thana>1>1030>
+dhaka>tolarbag>1>282>
+dhaka>turag>1>327>
+dhaka>uttara sector 1>1>12>
+dhaka>uttara sector 10>1>941>
+dhaka>uttara sector 11>1>942>
+dhaka>uttara sector 12>1>943>
+dhaka>uttara sector 13>1>944>
+dhaka>uttara sector 14>1>945>
+dhaka>uttara sector 15>1>1000>
+dhaka>uttara sector 16>1>1001>
+dhaka>uttara sector 17>1>1002>
+dhaka>uttara sector 18>1>1003>
+dhaka>uttara sector 3>1>935>
+dhaka>uttara sector 4>1>936>
+dhaka>uttara sector 5>1>937>
+dhaka>uttara sector 6>1>938>
+dhaka>uttara sector 7>1>939>
+dhaka>uttara sector 8>1>946>
+dhaka>uttara sector 9>1>940>
+dhaka>uttarkhan>1>14>
+dhaka>vatara>1>962>
+dhaka>wari>1>37>
+dinajpur>biral>35>582>
+dinajpur>birampur>35>817>
+dinajpur>birganj>35>811>
+dinajpur>bochaganj>35>814>
+dinajpur>chirirbandar>35>810>
+dinajpur>dinajpur sadar>35>136>
+dinajpur>fulbari>35>816>
+dinajpur>ghoraghat>35>819>
+dinajpur>hakimpur (hili)>35>820>
+dinajpur>kaharol>35>812>
+dinajpur>khanshama>35>813>
+dinajpur>nawabganj dinajpur>35>818>
+dinajpur>parbatipur>35>815>
+faridpur>alfadanga>18>922>
+faridpur>bhanga>18>923>
+faridpur>boalmari>18>924>
+faridpur>charbhadrashan>18>925>
+faridpur>faridpur sadar>18>114>
+faridpur>madukhali>18>926>
+faridpur>nagarkanda>18>927>
+faridpur>sadarpur>18>928>
+faridpur>saltha>18>929>
+feni>chhagalnaiya>6>568>
+feni>daganbhuiyan>6>569>
+feni>feni sadar>6>100>
+feni>ful-gazi>6>746>
+feni>pashuram>6>572>
+feni>sonagazi>6>573>
+gaibandha>fulchhari>38>781>
+gaibandha>gaibandha sadar>38>139>
+gaibandha>gobindaganj>38>645>
+gaibandha>palashbari>38>644>
+gaibandha>sadulllahpur>38>782>
+gaibandha>saghata>38>783>
+gaibandha>sundarganj>38>784>
+gazipur>bason >22>863>
+gazipur>board bazar>22>862>
+gazipur>borobari>22>861>
+gazipur>college gate>22>859>
+gazipur>gacha>22>990>
+gazipur>gazipura>22>860>
+gazipur>gazipur chowrasta>22>123>
+gazipur>hotapara>22>866>
+gazipur>joydebpur>22>864>
+gazipur>kaliganj>22>715>
+gazipur>kapashiya>22>865>
+gazipur>kashimpur>22>1048>
+gazipur>konabari>22>1068>
+gazipur>mawna >22>867>
+gazipur>mowchak>22>1047>
+gazipur>sreepur>22>529>
+gazipur>tongi>22>517>
+gazipur>tongi cherag ali>22>858>
+gopalgonj >gopalganj sadar>56>160>
+gopalgonj >kashiani>56>918>
+gopalgonj >kotalipara>56>919>
+gopalgonj >muksudpur>56>920>
+gopalgonj >tungipara>56>921>
+habiganj>azmireeganj>30>684>
+habiganj>bahubal>30>725>
+habiganj>baniachong>30>842>
+habiganj>chunarughat>30>843>
+habiganj>habiganj sadar>30>131>
+habiganj>lakhai>30>844>
+habiganj>madhabpur>30>726>
+habiganj>nabiganj>30>727>
+jamalpur>bakshiganj>41>871>
+jamalpur>dewangonj>41>519>
+jamalpur>islampur  >41>649>
+jamalpur>jamalpur sadar>41>143>
+jamalpur>madarganj>41>532>
+jamalpur>melandaha>41>531>
+jamalpur>sarishabari>41>533>
+jashore>bagharpara>19>600>
+jashore>benapole>19>116>
+jashore>chaugachha>19>601>
+jashore>jessore sadar>19>115>
+jashore>jhikargachha>19>602>
+jashore>keshabpur>19>603>
+jashore>monirampur>19>604>
+jashore>obhoynagar>19>605>
+jashore>sarsa>19>606>
+jhalokathi>jhalokathi sadar>27>128>
+jhalokathi>kathalia>27>583>
+jhalokathi>nalchhiti>27>609>
+jhalokathi>rajapur>27>608>
+jhenidah>harinakundu>49>465>
+jhenidah>jhenaidah sadar>49>153>
+jhenidah>kaligonj >49>466>
+jhenidah>kotchandpur>49>467>
+jhenidah>maheshpur>49>468>
+jhenidah>shailakupa>49>469>
+joypurhat>akkelpur>48>787>
+joypurhat>joypurhat sadar >48>152>
+joypurhat>kalai>48>785>
+joypurhat>khetlal>48>786>
+joypurhat>panchbibi>48>687>
+khagrachari>dighinala>63>709>
+khagrachari>guimara>63>888>
+khagrachari>khagrachari sadar>63>167>
+khagrachari>lakkhichhari>63>890>
+khagrachari>mahalchhari>63>997>
+khagrachari>maischori>63>893>
+khagrachari>manikchhari >63>891>
+khagrachari>matiranga >63>892>
+khagrachari>mohalchori>63>894>
+khagrachari>panchhari>63>895>
+khagrachari>ramgar>63>889>
+khulna>batiaghata>20>515>
+khulna>boyra>20>824>
+khulna>chandkhali>20>1028>
+khulna>dacope>20>989>
+khulna>daulatpur>20>827>
+khulna>digholia>20>514>
+khulna>dumuria>20>516>
+khulna>fultola>20>826>
+khulna>khalishpur>20>825>
+khulna>khulna sadar>20>117>
+khulna>kopilmuni>20>1006>
+khulna>koyra>20>1005>
+khulna>paikgachha upozila>20>970>
+khulna>rupsha>20>822>
+khulna>sonadanga>20>823>
+khulna>tala upozilla>20>969>
+khulna>terokhada  >20>992>
+kishoreganj>astagram>42>996>
+kishoreganj>bajitpur>42>881>
+kishoreganj>bhairab>42>720>
+kishoreganj>hossainpur>42>882>
+kishoreganj>itna>42>995>
+kishoreganj>karimganj>42>883>
+kishoreganj>kishoreganj sadar>42>144>
+kishoreganj>kuliarchar>42>884>
+kishoreganj>mithamoin>42>994>
+kishoreganj>nikli>42>887>
+kishoreganj>pakundia>42>885>
+kishoreganj>tarial>42>886>
+kurigram >bhurungamari>55>788>
+kurigram >char rajibpur>55>795>
+kurigram >chilmari>55>792>
+kurigram >kurigram sadar>55>159>
+kurigram >nagesshari>55>793>
+kurigram >phulbari>55>789>
+kurigram >rajarhat>55>790>
+kurigram >rawmari>55>794>
+kurigram >ulipur>55>791>
+kushtia>bheramara>28>636>
+kushtia>daulatpur >28>829>
+kushtia>islamic university>28>828>
+kushtia>khoksha>28>637>
+kushtia>kumarkhali>28>634>
+kushtia> kushtia-mirpur>28>635>
+kushtia>kushtia sadar >28>129>
+lakshmipur>komalnagar>40>530>
+lakshmipur>lakshimpur sadar>40>142>
+lakshmipur>raipur>40>575>
+lakshmipur>ramganj>40>574>
+lakshmipur>ramgoti>40>747>
+lalmonirhat >aditmari>57>802>
+lalmonirhat >hatibandha>57>804>
+lalmonirhat >kaliganj - lalmonirhat >57>803>
+lalmonirhat >lalmonirhat sadar>57>161>
+lalmonirhat >patgram>57>805>
+madaripur>dasar thana>43>870>
+madaripur>kalkini thana>43>869>
+madaripur>madaripur sadar>43>145>
+madaripur>rajoir thana>43>146>
+madaripur>shibchar>43>718>
+magura >magura sadar>60>164>
+magura >mohammadpur >60>463>
+magura >shalikha>60>956>
+magura >sreepur >60>464>
+manikganj>daulatpur - manikganj>16>856>
+manikganj>ghior thana>16>854>
+manikganj>harirampur >16>853>
+manikganj>manikganj sadar>16>112>
+manikganj>saturia>16>857>
+manikganj>shivalaya>16>855>
+manikganj>singair>16>852>
+meherpur>gangni>50>610>
+meherpur>meherpur sadar >50>154>
+meherpur>mujibnagar>50>830>
+moulvibazar>baralekha>12>676>
+moulvibazar>juri>12>678>
+moulvibazar>kamalganj>12>679>
+moulvibazar>kulaura>12>680>
+moulvibazar>mouluvibazar sadar>12>108>
+moulvibazar>rajnagar>12>677>
+moulvibazar>sreemangal>12>624>
+munsiganj>lohajong>23>710>
+munsiganj>munshiganj sadar>23>124>
+munsiganj>sirajdikhan>23>711>
+munsiganj>sreenagar>23>712>
+munsiganj>tongibari>23>713>
+mymensingh>bhaluka>26>850>
+mymensingh>dhobaura>26>847>
+mymensingh>fulbaria>26>511>
+mymensingh>gafargaon>26>845>
+mymensingh>gauripur>26>846>
+mymensingh>haluaghat>26>851>
+mymensingh>ishwarganj>26>513>
+mymensingh>muktagachha>26>512>
+mymensingh>mymensingh sadar>26>127>
+mymensingh>nandail>26>848>
+mymensingh>pagla>26>1038>
+mymensingh>phulpur>26>849>
+mymensingh>tarakanda>26>1049>
+mymensingh>trishal>26>510>
+naogaon>atrai>46>584>
+naogaon>bodolgaci>46>766>
+naogaon>dhamairhat >46>765>
+naogaon>manda>46>759>
+naogaon>mohadebpur >46>761>
+naogaon>naogaon  sadar>46>150>
+naogaon>niyamatpur>46>760>
+naogaon>porsha>46>764>
+naogaon>potnitola >46>762>
+naogaon>raninagaor>46>758>
+naogaon>sapaher>46>763>
+narail >kalia>54>706>
+narail >narail - lohagara  >54>707>
+narail >narail sadar>54>158>
+narail >terokhada>54>982>
+narayanganj>2 no gate>21>1025>
+narayanganj>ananda bazar>21>1052>
+narayanganj>araihazar>21>721>
+narayanganj>baidder bazar>21>1010>
+narayanganj>bandar>21>648>
+narayanganj>bhaberchar >21>1053>
+narayanganj>bhulta/gawsia>21>723>
+narayanganj>chittagong_road_narayangonj>21>1023>
+narayanganj>don chamber>21>121>
+narayanganj>fatullah>21>119>
+narayanganj>gazaria>21>821>
+narayanganj>jalkuri>21>1017>
+narayanganj>kachpur>21>1033>
+narayanganj>kaikartek>21>1051>
+narayanganj>kanchpur>21>1050>
+narayanganj>madanpur>21>1004>
+narayanganj>masdair>21>1020>
+narayanganj>modonpur>21>1039>
+narayanganj>narayanganj sadar>21>518>
+narayanganj>nitaiganj>21>1024>
+narayanganj>pagla>21>334>
+narayanganj>ponchoboti>21>1021>
+narayanganj>rupganj>21>722>
+narayanganj>shanarpar>21>1022>
+narayanganj>shibu market>21>1018>
+narayanganj>siddirganj>21>493>
+narayanganj>sign board>21>122>
+narayanganj>sonargaon>21>654>
+narayanganj>south chashara>21>120>
+narayanganj>zilla parishod>21>1019>
+narshingdi>belabo>47>520>
+narshingdi>madhabdi>47>708>
+narshingdi>monohordi>47>521>
+narshingdi>narshingdi sadar>47>151>
+narshingdi>palash>47>522>
+narshingdi>raypura>47>523>
+narshingdi>shibpur>47>524>
+natore>bagatipara>14>503>
+natore>baraigram>14>500>
+natore>gopalpur upo>14>991>
+natore>gurdaspur>14>502>
+natore>naldanga - natore>14>579>
+natore>natore sadar >14>110>
+natore>singra>14>501>
+netrakona>atpara>44>872>
+netrakona>barhatta>44>878>
+netrakona>kalmakanda>44>873>
+netrakona>kendua>44>874>
+netrakona>khaliajuri>44>875>
+netrakona>madan>44>879>
+netrakona>mohanganj>44>880>
+netrakona>netrokona sadar>44>147>
+netrakona>purbadhala>44>877>
+netrakona>susang durgapur>44>876>
+nilphamari>dimla>39>640>
+nilphamari>domar>39>641>
+nilphamari>jaldhaka>39>642>
+nilphamari>kishoriganj>39>643>
+nilphamari>nilphamari sadar>39>140>
+nilphamari>saidpur >39>141>
+nilphamari>taraganj>39>590>
+noakhali>basurhat>7>620>
+noakhali>begumganj>7>621>
+noakhali>chatkhil>7>622>
+noakhali>chondrogonj thana>7>742>
+noakhali>companigonj>7>744>
+noakhali>hatia>7>983>
+noakhali>maizdee>7>639>
+noakhali>noakhali sadar>7>101>
+noakhali>senbag>7>623>
+noakhali>sonaimuri>7>704>
+noakhali>sonapur>7>743>
+noakhali>subornochar>7>745>
+pabna>aminpur>24>1040>
+pabna>ataikula>24>773>
+pabna>atghoria>24>505>
+pabna>bera>24>555>
+pabna>bhangura>24>556>
+pabna>chatmohar>24>557>
+pabna>ishwardi>24>504>
+pabna>kasinathpur>24>772>
+pabna>lalpur>24>1007>
+pabna>pabna-faridpur>24>770>
+pabna>pabna sadar >24>125>
+pabna>sathia>24>771>
+pabna>sujanagar>24>506>
+pabna>tebunia>24>554>
+panchagarh>atwari>37>806>
+panchagarh>boda>37>809>
+panchagarh>debiganj>37>808>
+panchagarh>panchagarh sadar>37>138>
+panchagarh>tetulia>37>807>
+patuakhali>bauphal>29>470>
+patuakhali>dashmina>29>999>
+patuakhali>dumkee>29>471>
+patuakhali>gala chipa>29>472>
+patuakhali>kala para>29>473>
+patuakhali>khepupara>29>988>
+patuakhali>mohipur>29>1034>
+patuakhali>patuakhali sadar>29>130>
+patuakhali>subidkhali>29>998>
+pirojpur>bhandaria>31>906>
+pirojpur>kaukhali>31>570>
+pirojpur>mathbaria>31>907>
+pirojpur>nazirpur>31>571>
+pirojpur>pirojpur sadar>31>132>
+pirojpur>swarupkathi>31>905>
+rajbari >baliakandi>58>947>
+rajbari >goalanda>58>948>
+rajbari >kalukhali>58>950>
+rajbari >pangsha>58>949>
+rajbari >rajbari sadar>58>162>
+rajshahi>bagha>4>577>
+rajshahi>bagmara>4>497>
+rajshahi>banseshwar>4>1011>
+rajshahi>charghat>4>499>
+rajshahi>durgapur>4>498>
+rajshahi>godagari >4>578>
+rajshahi>katakhali>4>767>
+rajshahi>mohonpur>4>495>
+rajshahi>motihar>4>768>
+rajshahi>paba>4>494>
+rajshahi>puthia>4>576>
+rajshahi>rajpara>4>769>
+rajshahi>rajshahi sadar (boalia)>4>90>
+rajshahi>shah mokdum>4>580>
+rajshahi>sharda>4>1012>
+rajshahi>taherpur>4>1013>
+rajshahi>tanor>4>496>
+rangamati >kaptai>59>672>
+rangamati >kawkhali thana>59>669>
+rangamati >kotwali thana>59>163>
+rangamati >nanichhar>59>673>
+rangamati >rajasthali>59>674>
+rangpur>badarganj>25>585>
+rangpur>gangachara>25>586>
+rangpur>haragach thana>25>796>
+rangpur>kaunia>25>587>
+rangpur>mahiganj thana>25>801>
+rangpur>mithapukur>25>588>
+rangpur>pirgachha>25>589>
+rangpur>pirganj thana>25>797>
+rangpur>porshurampur thana>25>799>
+rangpur>rangpur cantonment>25>798>
+rangpur>rangpur sadar(kotowali thana)>25>126>
+rangpur>tajhat thana>25>800>
+satkhira>ashashuni thana>51>658>
+satkhira>debhata thana>51>652>
+satkhira>kalaroa>51>650>
+satkhira>kaliganj  >51>653>
+satkhira>satkhira sadar >51>155>
+satkhira>shymnagar>51>659>
+satkhira>tala thana>51>651>
+shariatpur >bhedorganj>64>662>
+shariatpur >damudhya>64>663>
+shariatpur >gosairhat>64>664>
+shariatpur >jajira>64>665>
+shariatpur >naria>64>666>
+shariatpur >shariatpur sadar (palong)>64>168>
+sherpur>jhinaigati>33>526>
+sherpur>nakla>33>527>
+sherpur>nalitabari>33>528>
+sherpur>sherpur sadar>33>134>
+sherpur>sreebardi>33>625>
+sirajganj>belkuchi>10>581>
+sirajganj>chowhali>10>1029>
+sirajganj>kamarkhanda>10>774>
+sirajganj>kazipur>10>780>
+sirajganj>rayganj>10>779>
+sirajganj>salonga>10>777>
+sirajganj>shahjadpur - shahjadpur>10>775>
+sirajganj>sirajganj sadar>10>105>
+sirajganj>tarash>10>778>
+sirajganj>ullapara>10>776>
+sunamganj>bishwamvarpur>45>834>
+sunamganj>chhatak>45>149>
+sunamganj>derai>45>836>
+sunamganj>dharmapasha>45>835>
+sunamganj>dowarabazar>45>837>
+sunamganj>jagnnathpur>45>619>
+sunamganj>jamalganj>45>838>
+sunamganj>salla>45>840>
+sunamganj>shantiganj>45>839>
+sunamganj>sunamganj sadar >45>148>
+sunamganj>tahirpur>45>841>
+sylhet>balaganj>3>611>
+sylhet>beanibazar>3>461>
+sylhet>bishwanath>3>612>
+sylhet>companyganj>3>618>
+sylhet>dakshin surma >3>831>
+sylhet>fenchuganj>3>613>
+sylhet>golapganj>3>615>
+sylhet>gowainghat>3>614>
+sylhet>jaintapur>3>616>
+sylhet>kanaighat>3>617>
+sylhet>osmani nagar>3>832>
+sylhet>sylhet sadar>3>89>
+sylhet>zakiganj>3>833>
+tangail>bashail>13>535>
+tangail>bhuapur>13>536>
+tangail>delduar>13>537>
+tangail>dhanbari>13>675>
+tangail>ghatail>13>538>
+tangail>gopalpur>13>539>
+tangail>kaliakair>13>724>
+tangail>kalihati>13>540>
+tangail>madhupur>13>541>
+tangail>mirzapur>13>542>
+tangail>nagarpur>13>543>
+tangail>sakhipur>13>544>
+tangail>tangail sadar>13>109>
+thakurgaon >baliadangi>36>951>
+thakurgaon >haripur>36>952>
+thakurgaon >pirganj>36>953>
+thakurgaon >ranisankail>36>954>
+thakurgaon >ruhiya >36>955>
+thakurgaon >thakurgaon sadar>36>137>
