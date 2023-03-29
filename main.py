@@ -36,19 +36,15 @@ def CreateOrder():
 
     DataCreateOrder['recipient_name'] = inp[2]
     DataCreateOrder['recipient_address'] = inp[7]
-    DataCreateOrder['recipient_phone'] = inp[9]
+    DataCreateOrder['recipient_phone'] = inp[9].replace(' ', '').replace('-', '')
     DataCreateOrder['merchant_order_id'] = inp[13]
     DataCreateOrder['amount_to_collect'] = int(float(inp[17]))
-    DataCreateOrder['special_instruction'] = spEntry.get()
-
+    
     quantity = 0
 
     for i in inp[31:len(inp) - 1]:
-        if i.__contains__('\tTotal:\t'):
-            break
-
         item = i.split('\t')
-        if int(item[1]) < 500 or int(item[1]) > 599:
+        if int(item[1]) < 500 or int(item[1]) > 599 or item[2] != 'Advance':
             quantity += float(item[3])
 
     #print(quantity)
@@ -64,10 +60,10 @@ def CreateOrder():
 
         if inp2.isdigit():
             for i in cityZones:
-                if i.__contains__('>' + inp2 + '>'):
+                if (i + '..').__contains__('>' + inp2 + '>\n..'):
                     print(i)
                     DataCreateOrder['recipient_zone'] = int(inp2)
-                    DataCreateOrder['recipient_city'] = i.split('>')[2]
+                    DataCreateOrder['recipient_city'] = int(i.split('>')[2])
                     break
             if DataCreateOrder['recipient_zone'] != -1:
                 break
@@ -76,13 +72,15 @@ def CreateOrder():
                 if i.__contains__(inp2):
                     print(i)
 
-
     print(DataCreateOrder)
 
     r1 = requests.post(base_url + '/aladdin/api/v1/orders', data=json.dumps(DataCreateOrder), headers=HeadersCreateOrder)
 
     if r1.status_code == 200:
-        print("Succesfully created order")
+        print("Successfully created order")
+    else:
+        print(r1.text)
+
         
 base_url = 'https://api-hermes.pathao.com'
 
