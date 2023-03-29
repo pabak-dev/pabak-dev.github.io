@@ -1,6 +1,89 @@
 import json
 import requests
+import tkinter
 
+def CreateOrder():
+    #print(textEntry.get('1.0', "end"))
+    DataCreateOrder = {
+        'store_id': 3855,
+        'merchant_order_id': "90000000",
+        'sender_name': "Damask",
+        'sender_phone': "01679386155",
+        'recipient_name': "Dummy entry",
+        'recipient_phone': "01618116916",
+        'recipient_address': "500 west kazipara",
+        'recipient_city': 1,
+        'recipient_zone': -1,
+        # 'recipient_area': 1,
+        'delivery_type': 48,
+        'item_type': 2,
+        'special_instruction': "",
+        'item_quantity': 1,
+        'item_weight': 0.5,
+        'amount_to_collect': 1450,
+        # 'item_description': "<item description>"
+    }
+
+    print('\nPlease provide entry data\n')
+    inp = textEntry.get('1.0', "end").split('\n')
+
+   # file2 = open('C:\\Users\\USER\\Documents\\GitHub\\Pruz0.github.io\\test.txt', 'w')
+   # file2.writelines(inp)
+   # file2.close()
+
+    #for i in range(len(inp)):
+       # print(str(i) + "   " + inp[i])
+
+    DataCreateOrder['recipient_name'] = inp[2]
+    DataCreateOrder['recipient_address'] = inp[7]
+    DataCreateOrder['recipient_phone'] = inp[9]
+    DataCreateOrder['merchant_order_id'] = inp[13]
+    DataCreateOrder['amount_to_collect'] = int(float(inp[17]))
+    DataCreateOrder['special_instruction'] = spEntry.get()
+
+    quantity = 0
+
+    for i in inp[31:len(inp) - 1]:
+        if i.__contains__('\tTotal:\t'):
+            break
+
+        item = i.split('\t')
+        if int(item[1]) < 500 or int(item[1]) > 599:
+            quantity += float(item[3])
+
+    #print(quantity)
+    #print(len(inp) - 32)
+    if quantity == 0:
+        quantity = 1
+
+    DataCreateOrder['item_quantity'] = int(quantity)
+    print(DataCreateOrder)
+
+    while True:
+        inp2 = input('\nSearch zone: ')
+
+        if inp2.isdigit():
+            for i in cityZones:
+                if i.__contains__('>' + inp2 + '>'):
+                    print(i)
+                    DataCreateOrder['recipient_zone'] = int(inp2)
+                    DataCreateOrder['recipient_city'] = i.split('>')[2]
+                    break
+            if DataCreateOrder['recipient_zone'] != -1:
+                break
+        else:
+            for i in cityZones:
+                if i.__contains__(inp2):
+                    print(i)
+
+
+    print(DataCreateOrder)
+
+    r1 = requests.post(base_url + '/aladdin/api/v1/orders', data=json.dumps(DataCreateOrder), headers=HeadersCreateOrder)
+
+    if r1.status_code == 200:
+        print("Succesfully created order")
+        
 base_url = 'https://api-hermes.pathao.com'
 
 DataAccessToken = json.dumps({
@@ -56,8 +139,17 @@ file.close()
 cityZones.remove('\n')
 #print(cityZones)
 
+window = tkinter.Tk()
+textEntry = tkinter.Text(window, width=80, height=20)
+textEntry.pack()
+button = tkinter.Button(window, text='Create Order', command=CreateOrder, width=50, height=10)
+button.pack()
+spEntry = tkinter.Entry(window, width=80)
+spEntry.pack()
+window.geometry('800x600') 
+window.mainloop()
 
-while True:
+while False:
     DataCreateOrder = {
         'store_id': 3855,
         'merchant_order_id': "90000000",
