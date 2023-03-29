@@ -98,7 +98,7 @@ while True:
 
     DataCreateOrder['recipient_name'] = inp[2]
     DataCreateOrder['recipient_address'] = inp[7]
-    DataCreateOrder['recipient_phone'] = inp[9].replace(' ', '')
+    DataCreateOrder['recipient_phone'] = inp[9].replace(' ', '').replace('-', '')
     DataCreateOrder['merchant_order_id'] = inp[13]
     DataCreateOrder['amount_to_collect'] = int(float(inp[17]))
     
@@ -139,6 +139,6 @@ while True:
     r1 = requests.post(base_url + '/aladdin/api/v1/orders', data=json.dumps(DataCreateOrder), headers=HeadersCreateOrder)
 
     if r1.status_code == 200:
-        print("Succesfully created order")
+        print("Successfully created order")
     else:
         print(r1.text)
