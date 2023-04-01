@@ -174,7 +174,7 @@ button = tkinter.Button(window, text='Create Order', command=CreateOrder, width=
 button.pack()
 spEntry = tkinter.Entry(window, width=80)
 spEntry.pack()
-window.geometry('800x600') 
+window.geometry('1600x900') 
 window.mainloop()
 
 while False:
