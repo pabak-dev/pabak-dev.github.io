@@ -77,7 +77,7 @@ cities = [{'city_id': 52, 'city_name': 'Bagerhat'}, {'city_id': 62, 'city_name':
 # for j in zones:
 #   cityZones.append(str(i['city_name'] + '>' + j['zone_name'] + '>' + str(i['city_id']) + '>' + str(j['zone_id']) + '>').lower())
 
-file = open('C:\\Users\\User\\Documents\\GitHub\\CBZH\\Pruz0.github.io\\cityzones.txt', 'r')
+file = open('C:\\Users\\USER\\Documents\\GitHub\\Pruz0.github.io\\cityzones.txt', 'r')
 # fileStr = ''
 # for i in cityZones:
 #   fileStr += i + '\n'
@@ -110,11 +110,17 @@ while True:
 
     print('\nPlease provide entry data\n')
     inp = []
+    x = 0
+    
     while True:
         try:
             line = input()
             inp.append(line)
 
+            if line.__contains__('Customer Name'):
+                x = len(inp) - 2
+            if line.__contains__('\t \t \t \tTotal'):
+                y = len(inp) + 1
             # if line.__contains__('Bill No:'):
             #   break
         except EOFError:
@@ -126,16 +132,16 @@ while True:
 
     # for i in range(len(inp)):
     # print(str(i) + "   " + inp[i])
-
-    DataCreateOrder['recipient_name'] = inp[2]
-    DataCreateOrder['recipient_address'] = inp[7]
-    DataCreateOrder['recipient_phone'] = inp[9].replace(' ', '').replace('-', '')
-    DataCreateOrder['merchant_order_id'] = inp[13]
-    DataCreateOrder['amount_to_collect'] = int(float(inp[17]))
+    print(x)
+    DataCreateOrder['recipient_name'] = inp[2+x]
+    DataCreateOrder['recipient_address'] = inp[7+x]
+    DataCreateOrder['recipient_phone'] = inp[9+x].replace(' ', '').replace('-', '')
+    DataCreateOrder['merchant_order_id'] = inp[13+x]
+    DataCreateOrder['amount_to_collect'] = int(float(inp[17+x]))
 
     quantity = 0
 
-    for i in inp[31:len(inp) - 1]:
+    for i in inp[31+x:y-2]:
         item = i.split('\t')
 
         exceps = ['501', '502', '503', '82', '601', '604', '5070']

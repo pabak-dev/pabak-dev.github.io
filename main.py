@@ -2,6 +2,8 @@ import json
 import requests
 import tkinter
 
+buttons = []
+
 def CreateOrder():
     #print(textEntry.get('1.0', "end"))
     DataCreateOrder = {
@@ -33,18 +35,36 @@ def CreateOrder():
 
     #for i in range(len(inp)):
        # print(str(i) + "   " + inp[i])
+    x = 0
+    y = 0
 
-    DataCreateOrder['recipient_name'] = inp[2]
-    DataCreateOrder['recipient_address'] = inp[7]
-    DataCreateOrder['recipient_phone'] = inp[9].replace(' ', '').replace('-', '')
-    DataCreateOrder['merchant_order_id'] = inp[13]
-    DataCreateOrder['amount_to_collect'] = int(float(inp[17]))
+    for line_i in range(len(inp)):
+        if inp[line_i].__contains__('Customer Name'):
+            x = line_i - 1
+        if inp[line_i].__contains__('\t \t \t \tTotal'):
+            y = line_i
+
+    DataCreateOrder['recipient_name'] = inp[2+x]
+    DataCreateOrder['recipient_address'] = inp[7+x]
+    DataCreateOrder['recipient_phone'] = inp[9+x].replace(' ', '').replace('-', '')
+    DataCreateOrder['merchant_order_id'] = inp[13+x]
+    DataCreateOrder['amount_to_collect'] = int(float(inp[17+x]))
+    DataCreateOrder['special_instruction'] = spEntry.get()
     
     quantity = 0
 
-    for i in inp[31:len(inp) - 1]:
+    for i in inp[31+x:y]:
         item = i.split('\t')
-        if int(item[1]) < 500 or int(item[1]) > 599 or item[2] != 'Advance':
+
+        exceps = ['501', '502', '503', '82', '601', '604', '5070']
+        ignore = False
+
+        for j in exceps:
+            if j == item[1]:
+                ignore = True
+                break
+
+        if not ignore:
             quantity += float(item[3])
 
     #print(quantity)
@@ -55,8 +75,9 @@ def CreateOrder():
     DataCreateOrder['item_quantity'] = int(quantity)
     print(DataCreateOrder)
 
-    while True:
-        inp2 = input('\nSearch zone: ')
+    if True:
+        inp2 = znEntry.get()
+        address = str(DataCreateOrder['recipient_address'])
 
         if inp2.isdigit():
             for i in cityZones:
@@ -66,11 +87,18 @@ def CreateOrder():
                     DataCreateOrder['recipient_city'] = int(i.split('>')[2])
                     break
             if DataCreateOrder['recipient_zone'] != -1:
-                break
+                print('')
         else:
+            for b in buttons:
+                b.destroy()
+            buttons.clear()
             for i in cityZones:
                 if i.__contains__(inp2):
-                    print(i)
+                    buttons.append(tkinter.Button(window, text='Create Order'))
+            for b in buttons:
+                b.pack()
+                
+            window.mainloop()
 
     print(DataCreateOrder)
 
@@ -140,6 +168,8 @@ cityZones.remove('\n')
 window = tkinter.Tk()
 textEntry = tkinter.Text(window, width=80, height=20)
 textEntry.pack()
+znEntry = tkinter.Entry(window, width=80)
+znEntry.pack()
 button = tkinter.Button(window, text='Create Order', command=CreateOrder, width=50, height=10)
 button.pack()
 spEntry = tkinter.Entry(window, width=80)
