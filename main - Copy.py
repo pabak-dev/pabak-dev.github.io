@@ -86,7 +86,6 @@ file.close()
 cityZones.remove('\n')
 # print(cityZones)
 
-
 while True:
     DataCreateOrder = {
         'store_id': 3855,
