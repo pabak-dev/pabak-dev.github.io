@@ -40,7 +40,7 @@ async def ask_vescgptlocal(inpp: str):
         no_repeat_ngram_size=3,       
         do_sample=True, 
         top_k=50, 
-        top_p=0.7,
+        top_p=0.4,
         temperature=1
     )
     
@@ -65,7 +65,7 @@ async def ask_lenngptlocal(inpp: str):
         no_repeat_ngram_size=3,       
         do_sample=True, 
         top_k=50, 
-        top_p=0.7,
+        top_p=0.4,
         temperature=1
     )
     
@@ -91,7 +91,7 @@ async def ask_hallgptlocal(inpp: str):
         no_repeat_ngram_size=3,       
         do_sample=True, 
         top_k=50, 
-        top_p=0.7,
+        top_p=0.4,
         temperature=1
     )
     
@@ -116,7 +116,7 @@ async def ask_geogptlocal(inpp: str):
         no_repeat_ngram_size=3,       
         do_sample=True, 
         top_k=50, 
-        top_p=0.7,
+        top_p=0.4,
         temperature=1
     )
     
@@ -141,7 +141,7 @@ async def ask_Pruzgptlocal(inpp: str):
         no_repeat_ngram_size=3,       
         do_sample=True, 
         top_k=50, 
-        top_p=0.7,
+        top_p=0.4,
         temperature=1
     )
     
