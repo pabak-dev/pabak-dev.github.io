@@ -39,7 +39,7 @@ async def ask_vescgptlocal(inpp: str):
         pad_token_id=tokenizer.eos_token_id,  
         no_repeat_ngram_size=3,       
         do_sample=True, 
-        top_k=100, 
+        top_k=50, 
         top_p=0.7,
         temperature=1
     )
@@ -64,7 +64,7 @@ async def ask_lenngptlocal(inpp: str):
         pad_token_id=tokenizerLen.eos_token_id,  
         no_repeat_ngram_size=3,       
         do_sample=True, 
-        top_k=100, 
+        top_k=50, 
         top_p=0.7,
         temperature=1
     )
@@ -90,7 +90,7 @@ async def ask_hallgptlocal(inpp: str):
         pad_token_id=tokenizerHaL.eos_token_id,  
         no_repeat_ngram_size=3,       
         do_sample=True, 
-        top_k=100, 
+        top_k=50, 
         top_p=0.7,
         temperature=1
     )
@@ -115,7 +115,7 @@ async def ask_geogptlocal(inpp: str):
         pad_token_id=tokenizerGeo.eos_token_id,  
         no_repeat_ngram_size=3,       
         do_sample=True, 
-        top_k=100, 
+        top_k=50, 
         top_p=0.7,
         temperature=1
     )
@@ -140,7 +140,7 @@ async def ask_Pruzgptlocal(inpp: str):
         pad_token_id=tokenizerPruz.eos_token_id,  
         no_repeat_ngram_size=3,       
         do_sample=True, 
-        top_k=100, 
+        top_k=50, 
         top_p=0.7,
         temperature=1
     )
