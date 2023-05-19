@@ -237,7 +237,9 @@ async def send_message(message, user_message, is_private):
 
 
 def run_discord_bot():
-  Token = input()
+  data_file = open("Bot_Data.pruz", "r")
+  Token = data_file.read()
+  data_file.close()
 
   intents = discord.Intents.default()
   intents.message_content = True
