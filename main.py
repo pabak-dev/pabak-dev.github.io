@@ -6,19 +6,19 @@ from time import time
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
-tokenizer = AutoTokenizer.from_pretrained("Pruz0/VescGPT")
+tokenizer = AutoTokenizer.from_pretrained("Pruz0/VescGPT", padding_side='left')
 model = AutoModelForCausalLM.from_pretrained("Pruz0/VescGPT")
 
-tokenizerLen = AutoTokenizer.from_pretrained("Pruz0/LennGPT")
+tokenizerLen = AutoTokenizer.from_pretrained("Pruz0/LennGPT", padding_side='left')
 modelLen = AutoModelForCausalLM.from_pretrained("Pruz0/LennGPT")
 
-tokenizerHaL = AutoTokenizer.from_pretrained("Pruz0/HaLLGPT")
+tokenizerHaL = AutoTokenizer.from_pretrained("Pruz0/HaLLGPT", padding_side='left')
 modelHaL = AutoModelForCausalLM.from_pretrained("Pruz0/HaLLGPT")
 
-tokenizerGeo = AutoTokenizer.from_pretrained("Pruz0/GeoGPT")
+tokenizerGeo = AutoTokenizer.from_pretrained("Pruz0/GeoGPT", padding_side='left')
 modelGeo = AutoModelForCausalLM.from_pretrained("Pruz0/GeoGPT")
 
-tokenizerPruz = AutoTokenizer.from_pretrained("Pruz0/PruzGPT")
+tokenizerPruz = AutoTokenizer.from_pretrained("Pruz0/PruzGPT", padding_side='left')
 modelPruz = AutoModelForCausalLM.from_pretrained("Pruz0/PruzGPT")
 
 managers = ['373913573153570827', '261784527318417411', '390414090813571082']
@@ -27,7 +27,7 @@ async def ask_vescgptlocal(inpp: str):
     t = time()
     print(f'Generating reply for: "{inpp}"')
       # encode the new user input, add the eos_token and return a tensor in Pytorch
-    new_user_input_ids = tokenizer.encode(tokenizer.eos_token + inpp, return_tensors='pt')
+    new_user_input_ids = tokenizer.encode(inpp + tokenizer.eos_token, return_tensors='pt')
     # print(new_user_input_ids)
 
     # append the new user input tokens to the chat history
@@ -52,7 +52,7 @@ async def ask_lenngptlocal(inpp: str):
     t = time()
     print(f'Generating reply for: "{inpp}"')
       # encode the new user input, add the eos_token and return a tensor in Pytorch
-    new_user_input_ids = tokenizerLen.encode(tokenizerLen.eos_token + inpp, return_tensors='pt')
+    new_user_input_ids = tokenizerLen.encode(inpp + tokenizerLen.eos_token, return_tensors='pt')
     # print(new_user_input_ids)
 
     # append the new user input tokens to the chat history
@@ -78,7 +78,7 @@ async def ask_hallgptlocal(inpp: str):
     t = time()
     print(f'Generating reply for: "{inpp}"')
       # encode the new user input, add the eos_token and return a tensor in Pytorch
-    new_user_input_ids = tokenizerHaL.encode(tokenizerHaL.eos_token + inpp, return_tensors='pt')
+    new_user_input_ids = tokenizerHaL.encode(inpp + tokenizerHaL.eos_token, return_tensors='pt')
     # print(new_user_input_ids)
 
     # append the new user input tokens to the chat history
@@ -103,7 +103,7 @@ async def ask_geogptlocal(inpp: str):
     t = time()
     print(f'Generating reply for: "{inpp}"')
       # encode the new user input, add the eos_token and return a tensor in Pytorch
-    new_user_input_ids = tokenizerGeo.encode(tokenizerGeo.eos_token + inpp, return_tensors='pt')
+    new_user_input_ids = tokenizerGeo.encode(inpp + tokenizerGeo.eos_token, return_tensors='pt')
     # print(new_user_input_ids)
 
     # append the new user input tokens to the chat history
@@ -128,7 +128,7 @@ async def ask_Pruzgptlocal(inpp: str):
     t = time()
     print(f'Generating reply for: "{inpp}"')
       # encode the new user input, add the eos_token and return a tensor in Pytorch
-    new_user_input_ids = tokenizerPruz.encode(tokenizerPruz.eos_token + inpp, return_tensors='pt')
+    new_user_input_ids = tokenizerPruz.encode(inpp + tokenizerPruz.eos_token, return_tensors='pt')
     # print(new_user_input_ids)
 
     # append the new user input tokens to the chat history
