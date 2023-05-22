@@ -6,19 +6,19 @@ from time import time
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
-tokenizer = AutoTokenizer.from_pretrained("Pruz0/VescGPT", padding_side='left')
+tokenizer = AutoTokenizer.from_pretrained("Pruz0/VescGPT")
 model = AutoModelForCausalLM.from_pretrained("Pruz0/VescGPT")
 
-tokenizerLen = AutoTokenizer.from_pretrained("Pruz0/LennGPT", padding_side='left')
+tokenizerLen = AutoTokenizer.from_pretrained("Pruz0/LennGPT")
 modelLen = AutoModelForCausalLM.from_pretrained("Pruz0/LennGPT")
 
-tokenizerHaL = AutoTokenizer.from_pretrained("Pruz0/HaLLGPT", padding_side='left')
+tokenizerHaL = AutoTokenizer.from_pretrained("Pruz0/HaLLGPT")
 modelHaL = AutoModelForCausalLM.from_pretrained("Pruz0/HaLLGPT")
 
-tokenizerGeo = AutoTokenizer.from_pretrained("Pruz0/GeoGPT", padding_side='left')
+tokenizerGeo = AutoTokenizer.from_pretrained("Pruz0/GeoGPT")
 modelGeo = AutoModelForCausalLM.from_pretrained("Pruz0/GeoGPT")
 
-tokenizerPruz = AutoTokenizer.from_pretrained("Pruz0/PruzGPT", padding_side='left')
+tokenizerPruz = AutoTokenizer.from_pretrained("Pruz0/PruzGPT")
 modelPruz = AutoModelForCausalLM.from_pretrained("Pruz0/PruzGPT")
 
 managers = ['373913573153570827', '261784527318417411', '390414090813571082']
