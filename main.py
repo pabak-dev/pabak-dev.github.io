@@ -185,7 +185,7 @@ async def send_message(message, user_message, is_private):
       vescSays = await ask_vescgptlocal(pruzSays)
       response_msg += (vescSays + '\n' + 'Lenny: ')
 
-      for l in range(5):
+      for l in range(0):
         lennSays = await ask_lenngptlocal(vescSays)
         response_msg += (lennSays + '\n' + 'Hall: ')
         hallSays = await ask_hallgptlocal(lennSays)
